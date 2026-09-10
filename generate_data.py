@@ -1,48 +1,41 @@
 # generate_data.py
 
 import os
-import uuid
 import numpy as np
-import pandas as pd
-
-# Import source constants from config.py
-from config import (
-    FIRST_NAMES,
-    LAST_NAMES,
-    STREETS,
-    CITIES,
-    COUNTRIES,
-    POSTCODES,
-    SEGMENTS,
+from services import (
+    generate_customers,
+    generate_orders,
+    generate_products,
+    generate_returns,  # <-- Added
 )
 
-# Set a random seed for reproducibility
 np.random.seed(42)
-
-# Ensure the output directory exists
 os.makedirs("data", exist_ok=True)
 
-# Generate synthetic European customer data
-customers = pd.DataFrame({
-    "customer_id": [f"CUST-{uuid.uuid4()}" for _ in range(200)],
-    "customer_name": [
-        f"{np.random.choice(FIRST_NAMES)} "
-        f"{np.random.choice(LAST_NAMES)}"
-        for _ in range(200)
-    ],
-    "address": [
-        (
-            f"{np.random.choice(STREETS)} {np.random.randint(1, 100)}, "
-            f"Apt {np.random.randint(1, 15)}"
-            f"{np.random.choice(['A', 'B', 'C', ''])}"
-        )
-        for _ in range(200)
-    ],
-    "city": np.random.choice(CITIES, 200),
-    "postcode": np.random.choice(POSTCODES, 200),
-    "country": np.random.choice(COUNTRIES, 200),
-    "segment": np.random.choice(SEGMENTS, 200),
-})
+if __name__ == "__main__":
+    print("\nGenerating synthetic datasets...\n")
 
-# Export to CSV inside the data directory
-customers.to_csv("data/customers.csv", index=False)
+    # 1. Customers
+    customers_df = generate_customers()
+    customers_df.to_csv("data/customers.csv", mode="w", index=False)
+    print(f"Generated {len(customers_df)} customers -> data/customers.csv")
+
+    # 2. Products
+    products_df = generate_products()
+    products_df.to_csv("data/products.csv", mode="w", index=False)
+    print(f"Generated {len(products_df)} products -> data/products.csv")
+
+    # 3. Orders
+    orders_df = generate_orders(
+        customer_ids=customers_df["customer_id"].values,
+        product_ids=products_df["product_id"].values,
+    )
+    orders_df.to_csv("data/orders.csv", mode="w", index=False)
+    print(f"Generated {len(orders_df)} orders -> data/orders.csv")
+
+    # 4. Returns
+    returns_df = generate_returns(orders_df)
+    returns_df.to_csv("data/returns.csv", mode="w", index=False)
+    print(f"Generated {len(returns_df)} returns -> data/returns.csv")
+
+    print("\nAll datasets successfully created in data\n")
