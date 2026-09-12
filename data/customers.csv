@@ -1,201 +1,201 @@
 customer_id,customer_name,address,city,postcode,country,segment
-CUST-18390a60-9fc4-4f51-9a32-a2952dd3b5df,Matteo Vidal,"Grand Rue 95, Apt 10B",Brussels,28001,Italy,Retail
-CUST-42d1ed67-10f4-492f-9217-cf565034eca4,Noah Ricci,"Rue de la Paix 58, Apt 1",Stockholm,1000,Netherlands,Enterprise
-CUST-7d671e71-e9df-4a66-bd48-e8ce0ef95913,Giulia Novák,"Hauptstraße 4, Apt 8",Madrid,75001,Austria,Retail
-CUST-7bf9a375-19d8-4458-8c68-f34d45d13cf3,Alejandro Ricci,"Via Roma 2, Apt 1",Brussels,1010,United Kingdom,VIP Member
-CUST-87f9dd00-39ef-4c63-a59c-737d6d4babcc,Hugo Rossi,"Prinsengracht 84, Apt 8",Rome,D01,Belgium,Government/Non-Profit
-CUST-69c03bf4-1263-47e8-8c51-4edba8dad54c,Giulia García,"Station Road 35, Apt 12A",Stockholm,1000,France,VIP Member
-CUST-ddb9df8b-e02a-4c50-bf5b-431553668266,Emma Schneider,"High Street 61, Apt 3C",Brussels,1000,Spain,VIP Member
-CUST-d2527a0b-388d-4585-b542-54e1d5776c9e,Sofia Dubois,"Hauptstraße 12, Apt 3A",Paris,1011,Sweden,Enterprise
-CUST-336d8421-b90d-434d-b176-f9d32fa2ad34,Oliver Schneider,"High Street 40, Apt 10C",Madrid,D01,United Kingdom,Enterprise
-CUST-f51e347d-b004-448a-8eb0-a351109d7552,Camille Kowalski,"Keizersgracht 29, Apt 13",Brussels,10115,Sweden,Retail
-CUST-eeedada9-9c6e-402a-9cd9-6ea5f3ed1951,Anna Hansen,"Station Road 35, Apt 7A",Stockholm,WC1A,France,Wholesale
-CUST-bca620ac-71da-4562-bb2d-42f7ec54b712,Noah De Jong,"Gran Vía 8, Apt 13B",Amsterdam,00185,Germany,Wholesale
-CUST-d5ab06da-2e82-4030-a8cb-a4b0b496c95d,Alejandro Schneider,"Gran Vía 90, Apt 14B",Berlin,00185,Germany,Enterprise
-CUST-5bbafd86-2a48-4b97-ac72-9febbd0f8f3f,Clara García,"Rue de la Paix 7, Apt 4B",Vienna,28001,United Kingdom,Retail
-CUST-3e6a1107-c938-4e2c-b16c-3bdade55c3ba,Liam Weber,"Hauptstraße 75, Apt 13",Berlin,28001,Ireland,Wholesale
-CUST-490363a5-edc0-48b9-8aa4-2d8a3184eb51,Matteo Moreau,"Grand Rue 89, Apt 5A",Berlin,00185,France,Retail
-CUST-d962ffbf-a9f1-40da-a6bf-6ba9236cac31,Matteo Martin,"Calle Mayor 36, Apt 10A",London,75002,France,Retail
-CUST-82531af4-bfaf-4dca-81be-ace96ad092bc,Mia Nagy,"Calle Mayor 24, Apt 3A",Paris,10115,Netherlands,Retail
-CUST-697649b5-505c-404e-b828-501213b4a32b,Freja Moreau,"Rue de la Paix 36, Apt 2A",Amsterdam,75002,Ireland,Small Business
-CUST-adbdeddd-b894-4fc8-bece-7ee16a5cfaa5,Emma Vidal,"Via Roma 96, Apt 8C",Dublin,75002,Belgium,VIP Member
-CUST-aec2fefc-6f58-4734-ad0b-850218cc28c1,Noah Novák,"Hauptstraße 12, Apt 1C",Brussels,75001,Belgium,Retail
-CUST-89410a02-dd3a-4cdc-8a72-899732dae9ef,Camille Smit,"Via Roma 89, Apt 3A",Vienna,111 22,Spain,Small Business
-CUST-8239e626-fd0c-42b3-a51a-56f84cfc668b,Noah García,"High Street 62, Apt 4",Madrid,WC1A,Italy,Enterprise
-CUST-25dd3330-72b7-4109-9681-4b69dc143098,Lina Kowalski,"Calle Mayor 86, Apt 13C",Amsterdam,75001,Germany,Wholesale
-CUST-dd1715a5-d8f1-44ea-9850-f42ded93d2c9,Mia Martin,"Rue de la Paix 49, Apt 4",Rome,1011,Belgium,VIP Member
-CUST-c053139d-e7c6-42ee-9525-a17818f7ca59,Giulia Rossi,"Calle Mayor 19, Apt 12A",Dublin,111 22,Ireland,Government/Non-Profit
-CUST-378b773d-e88c-41ed-990d-071302c239eb,Emma Andersson,"Via Roma 28, Apt 14C",London,111 22,France,Wholesale
-CUST-aa0a1a38-6655-4bfe-bbd7-a609336de7fd,Anna Rossi,"Grand Rue 83, Apt 10C",London,D01,Belgium,VIP Member
-CUST-18af41ef-1b26-471f-b058-3abb41d3cfb3,Freja Schneider,"Hauptstraße 69, Apt 3",Amsterdam,10115,France,Government/Non-Profit
-CUST-d51cc0b5-0d90-4897-b2e0-fe56dd41b76f,Emma Fernández,"Calle Mayor 52, Apt 11A",Stockholm,10115,Belgium,Wholesale
-CUST-a3c5be11-ff94-4df0-b91d-16271f4a45ce,Mia Nagy,"Grand Rue 53, Apt 7",Berlin,111 22,Germany,VIP Member
-CUST-7606810f-5347-4a1b-b02a-643711759385,Elena De Jong,"Calle Mayor 39, Apt 13A",Rome,75002,Sweden,Wholesale
-CUST-7dc21ad4-6a68-4637-988a-9448d523392b,Giulia Nagy,"Gran Vía 58, Apt 7B",London,D01,Belgium,Wholesale
-CUST-447df7ce-328f-4b82-8925-75fbdec5f5a2,Giulia Hansen,"Gran Vía 5, Apt 3C",Vienna,WC1A,Ireland,Government/Non-Profit
-CUST-9db094d5-c2cf-418f-be30-11c1893eb7f2,Lukas Martin,"Prinsengracht 75, Apt 2C",London,111 22,Belgium,Wholesale
-CUST-ab784ba2-3f80-4af7-bf43-1f56c111b479,Noah Larsen,"Keizersgracht 9, Apt 10B",Madrid,1010,Italy,Wholesale
-CUST-7a3e4b73-c077-4bd0-88b8-619911f7ab96,Finn De Jong,"Keizersgracht 17, Apt 13B",Brussels,28001,Germany,Government/Non-Profit
-CUST-fb0e7d2d-bbf8-4f50-836f-5e2914bd7fb4,Lukas Müller,"Via Roma 46, Apt 13",London,28001,Ireland,Enterprise
-CUST-4ba141ba-c4a7-4e32-be92-3aa1713e124e,Matteo Moreau,"Gran Vía 9, Apt 2C",Madrid,75001,Netherlands,Retail
-CUST-ed0dc795-4ed1-417c-865a-df8b86194718,Oliver Schneider,"Gran Vía 66, Apt 5A",Amsterdam,1011,Ireland,Corporate
-CUST-fa2dbfc6-de78-4ecd-a0be-ad746232ed99,Giulia Ricci,"Hauptstraße 38, Apt 3",Amsterdam,10117,Italy,Small Business
-CUST-16692ae3-6815-4678-acaa-c5485668c9cc,Alejandro Kowalski,"High Street 86, Apt 4A",Dublin,10117,Sweden,Corporate
-CUST-45f59dc4-c842-4051-85be-f6cd4c0098f3,Giulia García,"Via Roma 89, Apt 13",London,28001,Germany,Corporate
-CUST-f8bd0bbb-7e4f-498b-9cbb-cd1dc07e2896,Lucas Müller,"Grand Rue 70, Apt 12C",Vienna,1000,Netherlands,VIP Member
-CUST-11f80649-14c9-442c-8855-e2fc686006ac,Liam Fernández,"Rue de la Paix 61, Apt 12B",London,75001,Italy,Retail
-CUST-c2d42d52-bfb4-496d-819a-8e88b2dd5986,Matteo Moreau,"Via Roma 91, Apt 10B",Vienna,10117,Italy,VIP Member
-CUST-eb36a08e-fecf-433f-925b-3e78bbb9142f,Matteo Moreau,"Rue de la Paix 39, Apt 14C",Paris,28001,United Kingdom,Retail
-CUST-1cccae5f-2a40-4b41-8a3a-fd37e8a86583,Giulia Schneider,"Station Road 92, Apt 14B",Dublin,1011,Germany,Government/Non-Profit
-CUST-caac9f37-1d02-4d71-bb51-d5693013b1a6,Emma Müller,"Grand Rue 92, Apt 8A",Paris,10117,Ireland,Government/Non-Profit
-CUST-d6d08283-5c00-4224-9a6c-99a1833e04ac,Elena Jansen,"Calle Mayor 39, Apt 1C",London,75002,France,Retail
-CUST-f049bde0-9a29-4d67-b54f-c44e925d6cd8,Lucas Schneider,"Keizersgracht 62, Apt 9C",Dublin,75002,Sweden,Wholesale
-CUST-e735c67b-4a3c-4eeb-9d69-6b9697f60f10,Giulia García,"Keizersgracht 25, Apt 8A",Paris,10115,France,Enterprise
-CUST-5cdbb549-b7f3-401f-a916-37a861b86431,Oliver García,"Bahnhofstraße 6, Apt 10",Berlin,10115,Ireland,Wholesale
-CUST-327299fe-dcfc-4cf0-8b0d-ce876fb54692,Liam De Jong,"Hauptstraße 80, Apt 6A",London,WC1A,Ireland,Enterprise
-CUST-a3140276-3a8f-4337-ab23-23ef7d43722d,Lina García,"Prinsengracht 36, Apt 3C",Paris,111 22,Germany,VIP Member
-CUST-8ab8d65d-7002-4181-ab7a-b50bcb313555,Oliver Jansen,"Grand Rue 57, Apt 2C",Berlin,1010,Ireland,Enterprise
-CUST-a31f1d0c-6369-43ae-904d-aa82fbc0558f,Lina Novák,"Calle Mayor 49, Apt 14C",Berlin,10115,United Kingdom,VIP Member
-CUST-0fecd484-3f91-43ef-b1eb-6035f7651e6b,Finn De Jong,"High Street 54, Apt 6C",Amsterdam,10117,Netherlands,Government/Non-Profit
-CUST-63cf4065-d4d5-495b-983e-84d3da94ba1d,Noah Fernández,"Via Roma 57, Apt 11",London,D01,Ireland,Corporate
-CUST-c76843ce-7684-4257-970b-6647206e99eb,Lukas Weber,"Gran Vía 96, Apt 8B",Berlin,28001,France,Government/Non-Profit
-CUST-f172b585-ce63-4d77-8566-c87b67aba279,Matteo Kowalski,"Keizersgracht 24, Apt 12A",Amsterdam,D01,Ireland,Government/Non-Profit
-CUST-cb697b2a-9d82-429d-a260-dc1dbd29526e,Clara Rossi,"Corso Vittorio Emanuele 92, Apt 4B",Paris,1011,United Kingdom,Corporate
-CUST-00513db8-e6b9-41ae-bae9-94bb09ed7e56,Liam Novák,"Corso Vittorio Emanuele 58, Apt 12B",Madrid,10115,Belgium,Enterprise
-CUST-5a3ba2ef-2d4b-4822-b6d3-8b36a53a34fd,Lukas De Jong,"Keizersgracht 92, Apt 5A",London,1010,Belgium,Enterprise
-CUST-f5ef6f68-2855-406d-bbd9-92003d8cf002,Hugo Rossi,"Grand Rue 64, Apt 11B",Dublin,1011,Italy,VIP Member
-CUST-b84b864a-8d2f-4300-a7a2-66abf9326a15,Lukas Novák,"High Street 73, Apt 1A",Vienna,1000,Sweden,Wholesale
-CUST-54aa0a0c-dee7-4709-bc52-07d785986ee4,Alejandro Dubois,"Grand Rue 77, Apt 12",Vienna,1000,Spain,VIP Member
-CUST-4adf6251-e12a-4527-9edc-de0e7928c8c1,Anna Larsen,"Rue de la Paix 6, Apt 2C",Paris,D01,Netherlands,Wholesale
-CUST-2964ef8c-55af-4c9a-a715-d4082d566200,Sofia Schneider,"Hauptstraße 47, Apt 9B",Stockholm,111 22,Austria,Government/Non-Profit
-CUST-0d7f640b-380b-4199-8b40-0789b61957ee,Camille Vidal,"Gran Vía 56, Apt 14B",Stockholm,75001,Italy,Corporate
-CUST-d0ab4131-1bdc-4bc8-993b-5856d6a392fe,Hugo Novák,"Prinsengracht 5, Apt 7",Paris,111 22,Sweden,Government/Non-Profit
-CUST-1b6b4140-7b5c-4f40-81a7-d8cfd45a9a8e,Oliver Müller,"High Street 65, Apt 2",Berlin,10117,Belgium,Retail
-CUST-cf9a0e5f-30f2-4131-8863-36146f05f041,Clara Larsen,"High Street 11, Apt 5B",London,75002,France,Enterprise
-CUST-24ca3661-fdae-40a0-825e-9f6205088945,Finn García,"Calle Mayor 86, Apt 11C",Vienna,WC1A,Austria,Wholesale
-CUST-ae26a3c4-712c-4313-8f94-bbc4146dbe84,Matteo Andersson,"High Street 77, Apt 1B",Vienna,111 22,Sweden,VIP Member
-CUST-361f6123-c6f3-4fc2-8cd7-63debba3c322,Giulia Moreau,"Calle Mayor 99, Apt 1A",Berlin,WC1A,Sweden,Corporate
-CUST-1b74df62-7777-4f46-badb-0531660804a7,Liam Müller,"Via Roma 6, Apt 12A",Vienna,WC1A,Italy,Wholesale
-CUST-3aea1027-880d-46ce-8e59-784c5e2fbd5e,Alejandro Fernández,"Hauptstraße 95, Apt 5B",Dublin,1010,Austria,VIP Member
-CUST-c40cf189-4620-4a5b-945c-f60765e5fa57,Camille De Jong,"Rue de la Paix 53, Apt 7A",London,10115,Germany,Enterprise
-CUST-03f6637e-9a3c-45b9-a15e-adb24a7b636e,Finn Vidal,"Hauptstraße 37, Apt 10B",Brussels,1010,Spain,Government/Non-Profit
-CUST-2b1515e0-f58b-487c-a91d-5db095599b49,Antoine Kowalski,"Rue de la Paix 17, Apt 5B",Vienna,WC1A,Germany,Enterprise
-CUST-37dc3b58-0971-438e-9161-b0a16f8f9ff9,Clara Schneider,"Calle Mayor 1, Apt 3A",Paris,1011,Austria,Small Business
-CUST-286bdcbe-b5f3-4c43-9d50-ae8d0e1a5635,Matteo Dubois,"Grand Rue 62, Apt 1A",Dublin,1000,Germany,Retail
-CUST-fb1dc558-9dae-4838-89a2-b47e8cb11b27,Lucas Kowalski,"Corso Vittorio Emanuele 32, Apt 2",Vienna,WC1A,United Kingdom,Small Business
-CUST-e27c0a30-d3c8-48a8-87e0-83cd1e01f245,Liam Kowalski,"Corso Vittorio Emanuele 39, Apt 10B",Dublin,1010,Belgium,Corporate
-CUST-fe3e3bd2-e838-440a-9996-6dbbf316fae2,Antoine Kowalski,"Station Road 54, Apt 6C",Amsterdam,1011,United Kingdom,Wholesale
-CUST-17cfaec9-f542-46ff-b3c0-801c25c7349c,Emma Dubois,"Prinsengracht 50, Apt 12A",Brussels,1010,Ireland,Corporate
-CUST-1fb7fca0-d5bf-4ffe-833a-b0ed4af7b90c,Liam Müller,"Bahnhofstraße 5, Apt 14B",Rome,111 22,Germany,Government/Non-Profit
-CUST-de9f4852-ee05-4972-9047-667c8db1db10,Oliver Weber,"Prinsengracht 57, Apt 1",Paris,28001,Ireland,VIP Member
-CUST-f060fd73-6e4c-4116-bd25-49c5429443d6,Emma Schneider,"Via Roma 79, Apt 5A",Paris,D01,France,Enterprise
-CUST-72c77727-7e3b-4d1c-b8ef-937d883bbd4b,Sofia Rossi,"Station Road 75, Apt 3C",London,75001,Netherlands,Small Business
-CUST-005370a7-40f1-43c3-aa64-a80c8fa63491,Hugo Kowalski,"Bahnhofstraße 64, Apt 12B",Dublin,75002,France,Small Business
-CUST-14dd2cb2-896a-4de2-b8d5-d52fde59e4d0,Sofia Jansen,"Bahnhofstraße 50, Apt 2B",Berlin,1010,Austria,Government/Non-Profit
-CUST-06d82719-485b-4b66-9fa3-e61ae505590d,Clara Dubois,"Prinsengracht 51, Apt 2",Paris,75001,Sweden,Small Business
-CUST-f2e4ed2f-a619-4a41-8be1-b798a1194654,Sofia Ricci,"Calle Mayor 38, Apt 1",Dublin,00185,Belgium,Government/Non-Profit
-CUST-5b380e5b-5f45-485c-9db6-04efa11660a0,Elena Hansen,"Keizersgracht 30, Apt 7B",Dublin,1010,Germany,Corporate
-CUST-fa132f1d-09bd-4f80-b35c-57108610318a,Oliver Moreau,"Rue de la Paix 81, Apt 5A",Madrid,28001,Italy,Enterprise
-CUST-6ff04e20-a30d-456d-bde9-e88b995894ba,Sofia Hansen,"Grand Rue 10, Apt 8A",Madrid,75001,Netherlands,Wholesale
-CUST-aafdbd52-eafc-46f5-9d67-bccf43c995a2,Lucas Vidal,"Gran Vía 17, Apt 12",Rome,75002,Spain,VIP Member
-CUST-d7189c96-1733-4bec-ab75-b5c23786c5cf,Mia Weber,"Corso Vittorio Emanuele 69, Apt 2B",Amsterdam,WC1A,Spain,Wholesale
-CUST-f929a5ad-bf1a-4f63-8573-6bd155583e3c,Lucas Weber,"Hauptstraße 66, Apt 13B",Rome,1010,Spain,Corporate
-CUST-60ede160-418d-4b72-9855-2375272dd57a,Clara Novák,"Prinsengracht 43, Apt 11C",Vienna,10115,Germany,VIP Member
-CUST-8aa41ce2-0a2a-431d-8960-2236a5a9fd81,Clara Moreau,"Calle Mayor 23, Apt 7",Berlin,D01,Spain,Small Business
-CUST-21fa1220-003b-4e6c-b766-7b677d2e863c,Oliver Smit,"Prinsengracht 16, Apt 8",Vienna,28001,United Kingdom,Retail
-CUST-87adcf0f-7ac6-4e90-bf1e-a79934abc468,Matteo Martin,"Corso Vittorio Emanuele 4, Apt 8A",Stockholm,10117,Netherlands,Corporate
-CUST-5514767d-a1c0-4b9f-be09-5f9b1ce2a16b,Giulia Müller,"Rue de la Paix 96, Apt 3C",Vienna,10117,United Kingdom,Corporate
-CUST-4e1b5a26-9eab-4215-bfbf-e98c30b997a3,Hugo Martin,"Station Road 61, Apt 10C",London,75001,Sweden,Enterprise
-CUST-f42ab85f-fe26-45c2-a7f8-f20c786551c1,Anna García,"Rue de la Paix 21, Apt 5B",Vienna,28001,Netherlands,Wholesale
-CUST-71d094ee-99ea-4faf-bc99-57c1f1711747,Matteo Hansen,"Keizersgracht 42, Apt 13B",Rome,1011,United Kingdom,Corporate
-CUST-b0ed111e-b2e2-4f59-892a-2dc549f4bb79,Elena Vidal,"Hauptstraße 70, Apt 1A",Paris,75002,Netherlands,Corporate
-CUST-160f2f00-6ec5-4949-8e5a-65938b375a73,Antoine Dubois,"Calle Mayor 12, Apt 10B",Paris,D01,Sweden,Small Business
-CUST-9e11c285-0925-4c4b-8365-952c9323d251,Oliver Hansen,"Station Road 49, Apt 14B",Madrid,WC1A,Ireland,Small Business
-CUST-7eceb259-37c0-4027-84ef-086eca03b8ef,Camille Jansen,"Prinsengracht 73, Apt 10A",Berlin,1010,Germany,VIP Member
-CUST-fc7be991-af28-456f-8909-20ee5dcac8ce,Liam Moreau,"Calle Mayor 86, Apt 8B",Berlin,1010,Germany,Government/Non-Profit
-CUST-2d0c3f1d-dbab-48db-bba3-251389cecb92,Finn García,"Prinsengracht 63, Apt 13A",London,10117,Spain,Government/Non-Profit
-CUST-ecb51ebb-3ee0-4805-998e-4ab63dcf6b1a,Alejandro Hansen,"Gran Vía 36, Apt 1",Rome,1010,France,Retail
-CUST-3cdcd67b-76ac-4f01-a932-c256cd3f79f3,Elena García,"High Street 99, Apt 13",Madrid,D01,Spain,Government/Non-Profit
-CUST-910e2704-a891-45b1-a533-5c5c5967e049,Clara Müller,"Corso Vittorio Emanuele 86, Apt 14B",Stockholm,10115,Austria,Enterprise
-CUST-bfb45a80-bd79-4b4d-977c-cba367af1d07,Clara Ricci,"Keizersgracht 87, Apt 14",Berlin,00185,United Kingdom,Retail
-CUST-7310d656-2ba0-4a4f-a901-9f5ee80fae8d,Antoine Smit,"Station Road 26, Apt 14C",Paris,1000,Netherlands,VIP Member
-CUST-28fc6bc9-310f-4947-8f7d-a0e16fe170d9,Mia Andersson,"Corso Vittorio Emanuele 7, Apt 3C",Vienna,111 22,France,Small Business
-CUST-bfe667e1-d48b-42ac-bbbf-a1fcb3548489,Giulia Vidal,"Via Roma 18, Apt 10B",Vienna,75001,Sweden,Government/Non-Profit
-CUST-b2b74bae-b568-4bf9-8a25-8db197087371,Lucas Hansen,"Rue de la Paix 15, Apt 9C",Madrid,10115,Austria,Wholesale
-CUST-7c6ac33e-cb2f-454b-8274-216dcef38cac,Lucas Martin,"Hauptstraße 28, Apt 10C",Rome,WC1A,Sweden,Small Business
-CUST-71c71ff8-af6f-43d9-9fdf-b088224fdbe4,Lina Martin,"Calle Mayor 17, Apt 7B",Rome,10117,Germany,Enterprise
-CUST-507dfe62-41de-4a0e-8c3f-0ab41120b2ec,Emma García,"Gran Vía 44, Apt 9A",Amsterdam,75001,Germany,Small Business
-CUST-280dbbbc-4b67-4e94-b2bb-0521a3dc711c,Elena Moreau,"Grand Rue 25, Apt 4B",Brussels,1010,Spain,Enterprise
-CUST-183144ff-9e13-4c1e-8f77-997976257708,Mia Müller,"Rue de la Paix 18, Apt 4C",Berlin,28001,United Kingdom,Enterprise
-CUST-c0caa482-e4ae-4292-8d46-eddeba00b62f,Mia Müller,"Bahnhofstraße 34, Apt 8",Rome,WC1A,France,Enterprise
-CUST-2ddd2583-72b4-4dc0-af92-c7923859bd48,Lina Hansen,"High Street 83, Apt 10A",Paris,75001,Belgium,VIP Member
-CUST-59a159f5-1d47-49b9-8384-d523345d34ce,Clara Smit,"Hauptstraße 6, Apt 4B",Madrid,75002,Austria,Enterprise
-CUST-15b2d99a-c5d7-4114-b47c-f36feeaaabee,Matteo García,"Station Road 59, Apt 8C",Stockholm,1010,Austria,Enterprise
-CUST-9962a59c-d15e-44bc-9447-a202f9885331,Antoine Müller,"Bahnhofstraße 33, Apt 5B",Amsterdam,75001,Spain,Wholesale
-CUST-b82baab2-0225-47c1-acbd-7336b73c1822,Elena Schneider,"Hauptstraße 70, Apt 6C",Dublin,28001,Germany,Retail
-CUST-621e3332-dec5-492b-8ba1-2c51365396a4,Alejandro Nagy,"Grand Rue 94, Apt 11B",London,75002,Spain,Corporate
-CUST-bccf07bc-734b-4d99-ab1e-587be7a72c8d,Sofia Andersson,"Corso Vittorio Emanuele 55, Apt 9C",Stockholm,1010,Netherlands,Retail
-CUST-2ba4a167-0d5b-43b3-ad5a-7d9ae2803dcd,Lukas Weber,"Rue de la Paix 31, Apt 8A",Dublin,00185,France,Enterprise
-CUST-68b6c751-e02a-4e1c-91a6-6c97139006cb,Giulia Dubois,"Grand Rue 24, Apt 6B",Vienna,10115,United Kingdom,Wholesale
-CUST-06562ff3-d085-420a-b4be-54e4b4a2afe4,Oliver De Jong,"Grand Rue 92, Apt 11",London,1011,Ireland,Small Business
-CUST-c203b42b-d843-4808-bea4-a49e981639e9,Oliver Jansen,"Bahnhofstraße 94, Apt 8B",Berlin,10117,Italy,Wholesale
-CUST-0cdd460b-bab0-4e73-a68b-3bb6f7b2b74b,Elena Weber,"Rue de la Paix 62, Apt 9B",Paris,111 22,Italy,Enterprise
-CUST-d2c746ce-ce51-4ebf-883c-f9aadea2f336,Mia García,"Prinsengracht 8, Apt 10C",London,D01,Spain,Wholesale
-CUST-65a72786-c8c4-4bcc-928f-9d7407225e3d,Antoine Kowalski,"Keizersgracht 5, Apt 6B",Brussels,10117,Netherlands,Government/Non-Profit
-CUST-cb85a758-8a4d-4305-9c97-e23e30cfe98b,Camille Nagy,"Bahnhofstraße 68, Apt 3",Dublin,111 22,France,Wholesale
-CUST-5eb73b42-4ec9-4176-a34e-dcd5d78db6d1,Sofia García,"High Street 20, Apt 1",Berlin,WC1A,Belgium,Enterprise
-CUST-dfa43865-5538-4333-bc6a-c05cc101e3b6,Finn Jansen,"High Street 90, Apt 14",Brussels,111 22,Italy,VIP Member
-CUST-46b0b666-60e9-490a-94ed-25e8fdb1238b,Antoine Nagy,"Bahnhofstraße 37, Apt 14C",Vienna,1010,France,Government/Non-Profit
-CUST-b0d298a8-b6c9-4639-9ad5-f682bade6fcb,Lucas Müller,"Grand Rue 77, Apt 11C",Brussels,00185,United Kingdom,Wholesale
-CUST-8ea62aa9-7fa2-49e4-bba1-27c1c21a9c92,Clara Müller,"High Street 6, Apt 2",Amsterdam,1011,Sweden,Corporate
-CUST-8e2402b6-dfbc-41cf-9bcc-bccee41a7b10,Lucas Martin,"Gran Vía 5, Apt 7B",Amsterdam,10115,Netherlands,Corporate
-CUST-52b30e7e-3539-4229-9d1b-d55898ac529c,Anna García,"Keizersgracht 2, Apt 13",Madrid,10115,Germany,Wholesale
-CUST-bdc86a58-7115-40c6-a5e4-0ff272061fd0,Giulia Nagy,"Station Road 84, Apt 1C",Stockholm,28001,France,VIP Member
-CUST-c96d4d89-479c-490d-a2f3-ac3aef71cd0d,Freja De Jong,"Hauptstraße 73, Apt 1A",Stockholm,D01,United Kingdom,Small Business
-CUST-2a5095ca-5851-400b-981b-3fd1845ada8d,Emma Fernández,"Prinsengracht 15, Apt 8B",Berlin,75001,Belgium,Enterprise
-CUST-af43da7b-96be-4d9d-b6e6-069f4bb6c2d7,Emma Kowalski,"Via Roma 35, Apt 14C",Vienna,00185,Ireland,Corporate
-CUST-8ef2f605-7dbb-430d-b166-b4737b0eea29,Giulia Müller,"High Street 69, Apt 14",Rome,75001,Germany,Small Business
-CUST-9f657637-066c-4331-bca5-63547cb26609,Finn Ricci,"Keizersgracht 50, Apt 14A",Amsterdam,1011,Ireland,Wholesale
-CUST-5562619b-6f73-47df-9c43-e55d930f4a91,Elena Novák,"Corso Vittorio Emanuele 75, Apt 9B",Berlin,111 22,Belgium,Small Business
-CUST-2fa53b23-38f7-4672-a038-cc7f1c13c2f3,Anna García,"Keizersgracht 99, Apt 3A",Rome,10115,United Kingdom,Government/Non-Profit
-CUST-3eaedb2d-5ae8-44a7-ac46-92ffdad22bd4,Freja Larsen,"Corso Vittorio Emanuele 64, Apt 6",Stockholm,1011,Italy,Retail
-CUST-bcc27312-4953-403d-b711-0e6e47cef07b,Matteo Rossi,"Corso Vittorio Emanuele 11, Apt 9A",Madrid,111 22,Ireland,Corporate
-CUST-f17bdd0b-34d9-4f9e-9cff-82057f3bdf6d,Lukas Vidal,"Keizersgracht 30, Apt 3A",Brussels,10115,Germany,Wholesale
-CUST-30f3cac2-f1c3-4971-8652-d45b221ccc78,Oliver Smit,"Hauptstraße 5, Apt 3C",Amsterdam,111 22,Spain,Enterprise
-CUST-34091c09-2aaa-4aa8-b459-524e3f56cd3f,Lina Hansen,"Gran Vía 62, Apt 4A",Berlin,D01,Austria,VIP Member
-CUST-372a18e0-8acf-420c-a46a-e4c4a9390899,Lina Schneider,"Gran Vía 89, Apt 2",London,00185,France,Government/Non-Profit
-CUST-63482248-bc5f-4646-a491-478b76bc3054,Alejandro De Jong,"Corso Vittorio Emanuele 39, Apt 8B",Rome,10117,Italy,Wholesale
-CUST-26798707-1439-4a1e-862a-9ccb2bcb82ed,Emma Dubois,"Rue de la Paix 38, Apt 1C",Brussels,75002,Ireland,Enterprise
-CUST-f7134552-9467-46f4-8928-38f2a150127f,Alejandro Kowalski,"High Street 25, Apt 1A",Amsterdam,WC1A,Sweden,VIP Member
-CUST-93c9f35e-101f-4f37-a814-92fc65779743,Clara Fernández,"Via Roma 66, Apt 14A",Stockholm,1011,France,VIP Member
-CUST-3da8eb65-3324-451a-a6db-27c3b2ea10c4,Sofia De Jong,"Corso Vittorio Emanuele 51, Apt 7C",Vienna,1011,Spain,Wholesale
-CUST-e240f446-acf3-48a9-b421-96e72805d76d,Hugo Jansen,"Bahnhofstraße 6, Apt 3C",Rome,75002,Belgium,Government/Non-Profit
-CUST-b0ac74b5-03c1-43d2-b95a-76e5ddcc9d40,Oliver Smit,"Rue de la Paix 72, Apt 10",Stockholm,10117,Austria,Small Business
-CUST-76ef82c4-d353-492a-9ec7-2af51b8fbb1e,Camille Schneider,"Grand Rue 15, Apt 13A",Amsterdam,1000,United Kingdom,Small Business
-CUST-cbf76b84-6c32-4dae-bde7-e678e5354108,Liam Novák,"Grand Rue 94, Apt 7C",Rome,1010,Spain,VIP Member
-CUST-79457fa0-d459-48b5-b5e2-a395696f0402,Mia Andersson,"Grand Rue 29, Apt 6A",Brussels,D01,Spain,Small Business
-CUST-a5bd4258-df26-4b4a-aa50-726b7d51d3da,Lukas Vidal,"High Street 27, Apt 7A",Amsterdam,D01,Belgium,Retail
-CUST-90e55373-fb23-4255-be2f-fe15eb654747,Noah García,"Grand Rue 86, Apt 2B",Dublin,75002,Netherlands,VIP Member
-CUST-858d7d88-75ff-49ea-8550-c07f0245bc75,Giulia Vidal,"Hauptstraße 74, Apt 1B",Berlin,75001,Belgium,VIP Member
-CUST-71122f57-150f-4a69-a1df-741fd94968a4,Elena Larsen,"Bahnhofstraße 13, Apt 4A",Brussels,111 22,Netherlands,Enterprise
-CUST-3fe85465-54c7-4ba1-9e86-6e29127a9f4f,Freja Fernández,"Corso Vittorio Emanuele 52, Apt 8C",Rome,1010,Netherlands,Small Business
-CUST-405f581d-f550-459f-9606-250a9d5c7fbb,Alejandro Kowalski,"Corso Vittorio Emanuele 5, Apt 13C",Vienna,00185,Italy,Government/Non-Profit
-CUST-c0c06b0e-1d0f-4a52-95c1-3d64be3a1e44,Alejandro Jansen,"Grand Rue 76, Apt 13B",Stockholm,00185,Italy,VIP Member
-CUST-37c261b3-eb56-4e39-b338-7f05b890fe62,Finn Schneider,"Prinsengracht 95, Apt 3C",London,75002,Germany,Government/Non-Profit
-CUST-c7d7ac05-59fb-484d-a673-75ae642e5aa4,Oliver Müller,"Grand Rue 36, Apt 10C",Stockholm,D01,Ireland,Retail
-CUST-36ff3a16-4214-4478-a013-d493159f06ef,Noah Dubois,"Prinsengracht 69, Apt 4C",Rome,00185,Ireland,Enterprise
-CUST-c7b02771-19c5-40d9-ba6f-0e163dfa80be,Elena Smit,"Gran Vía 38, Apt 6",Stockholm,1000,United Kingdom,Wholesale
-CUST-1b708169-2751-4479-9429-6271fd223e08,Lukas Müller,"Via Roma 47, Apt 10B",Berlin,1011,Ireland,Government/Non-Profit
-CUST-c54940d0-e331-46ad-994a-780a561ce6a0,Elena Novák,"Prinsengracht 12, Apt 10A",Amsterdam,28001,Italy,VIP Member
-CUST-5fe01fd5-5049-44a3-802d-1f28ee6ece57,Liam García,"Corso Vittorio Emanuele 62, Apt 2A",London,WC1A,Germany,Retail
-CUST-e40d3a02-6b92-40a7-847b-0314d0ee31be,Camille Hansen,"High Street 60, Apt 11",Paris,75002,Germany,Corporate
-CUST-ebc31378-2707-4f40-8a06-656ea5e1f268,Alejandro Jansen,"Keizersgracht 68, Apt 5",Rome,75001,Netherlands,Retail
-CUST-d4ce15b1-9912-4d23-bd95-ca686b8ec87d,Lina Jansen,"Hauptstraße 72, Apt 10A",Madrid,111 22,Belgium,Retail
-CUST-c0f966fd-a392-4504-88e8-a85a0c9fdae1,Noah Kowalski,"Keizersgracht 31, Apt 10A",Paris,WC1A,United Kingdom,Enterprise
-CUST-67100dc6-4705-42c5-a85f-3671c176204f,Lina Vidal,"Bahnhofstraße 51, Apt 13B",Stockholm,111 22,Netherlands,Wholesale
-CUST-002dc580-f560-4ae1-88de-0e800fb7e4c7,Liam Schneider,"Corso Vittorio Emanuele 41, Apt 6C",Rome,10115,Belgium,Corporate
-CUST-ed174d42-35ba-400f-aff9-06aecc68d7cf,Elena Hansen,"Via Roma 1, Apt 14A",Dublin,WC1A,Ireland,Small Business
-CUST-35cd0fb9-6d5c-4d1c-87be-8e918b8919a7,Matteo Rossi,"Hauptstraße 90, Apt 14",Madrid,28001,Netherlands,Small Business
-CUST-b7626ddc-d451-40af-a9a4-be9cd077fab7,Oliver Jansen,"Bahnhofstraße 87, Apt 9A",London,D01,France,Government/Non-Profit
-CUST-a2556a38-a3ea-4a0d-8f32-5553b9d5519e,Anna Jansen,"Bahnhofstraße 55, Apt 3",Vienna,1000,Ireland,Retail
-CUST-a5d94d1d-8773-49a3-ae80-73d1c7b9fb5f,Mia Dubois,"Hauptstraße 47, Apt 9A",Dublin,1011,Belgium,Enterprise
+CUST-c457ed45-8982-46a0-b8ae-b1bec9f81e1b,Matteo Vidal,"Grand Rue 95, Apt 10B",Brussels,28001,Italy,Retail
+CUST-75b12d27-022d-445c-bfa6-ec8f96438a29,Noah Ricci,"Rue de la Paix 58, Apt 1",Stockholm,1000,Netherlands,Enterprise
+CUST-3c0f69b1-f461-4b7c-837d-0fffba5143e9,Giulia Novák,"Hauptstraße 4, Apt 8",Madrid,75001,Austria,Retail
+CUST-2d268d5b-1cf0-405f-8170-8c0e5604bf76,Alejandro Ricci,"Via Roma 2, Apt 1",Brussels,1010,United Kingdom,VIP Member
+CUST-5405e892-a40b-4afc-88ca-0252b5dc9f7b,Hugo Rossi,"Prinsengracht 84, Apt 8",Rome,D01,Belgium,Government/Non-Profit
+CUST-45f307fa-90a9-4776-9068-b12450c0b246,Giulia García,"Station Road 35, Apt 12A",Stockholm,1000,France,VIP Member
+CUST-6ccd618d-ef72-45cf-83f7-960660bc86a2,Emma Schneider,"High Street 61, Apt 3C",Brussels,1000,Spain,VIP Member
+CUST-f04b7a38-0a51-4587-86c4-3461fac18b5e,Sofia Dubois,"Hauptstraße 12, Apt 3A",Paris,1011,Sweden,Enterprise
+CUST-f02fb94f-ef10-4499-a7d8-bc4f0d927562,Oliver Schneider,"High Street 40, Apt 10C",Madrid,D01,United Kingdom,Enterprise
+CUST-d09364e1-e4fa-421e-ac13-f0b4f257406f,Camille Kowalski,"Keizersgracht 29, Apt 13",Brussels,10115,Sweden,Retail
+CUST-5e71198b-9ef8-404f-9048-3613c1a48433,Anna Hansen,"Station Road 35, Apt 7A",Stockholm,WC1A,France,Wholesale
+CUST-6ff160b8-3833-4921-91d1-102ac96fee31,Noah De Jong,"Gran Vía 8, Apt 13B",Amsterdam,00185,Germany,Wholesale
+CUST-7abc9ca0-84b5-46fc-be9a-6e102e89a3be,Alejandro Schneider,"Gran Vía 90, Apt 14B",Berlin,00185,Germany,Enterprise
+CUST-ab25de93-0d02-475a-bfa3-3deb0ddc24b8,Clara García,"Rue de la Paix 7, Apt 4B",Vienna,28001,United Kingdom,Retail
+CUST-925ab295-eb95-4b7f-b9a6-1398a49f23e7,Liam Weber,"Hauptstraße 75, Apt 13",Berlin,28001,Ireland,Wholesale
+CUST-d181ade8-00d8-4132-81f5-86f1e8249ad0,Matteo Moreau,"Grand Rue 89, Apt 5A",Berlin,00185,France,Retail
+CUST-e31ef663-c483-4b96-b41a-d92a7f22a284,Matteo Martin,"Calle Mayor 36, Apt 10A",London,75002,France,Retail
+CUST-cbc0610f-8f49-497d-ac67-a26a157203c4,Mia Nagy,"Calle Mayor 24, Apt 3A",Paris,10115,Netherlands,Retail
+CUST-57da39b5-3e40-472f-aad0-6bc1ca109eaf,Freja Moreau,"Rue de la Paix 36, Apt 2A",Amsterdam,75002,Ireland,Small Business
+CUST-07ad50c4-6e0f-45c5-b298-0322db9883f9,Emma Vidal,"Via Roma 96, Apt 8C",Dublin,75002,Belgium,VIP Member
+CUST-23f7671e-dec0-4667-ac63-5a70e4723fdb,Noah Novák,"Hauptstraße 12, Apt 1C",Brussels,75001,Belgium,Retail
+CUST-7987a7cd-3b84-4c7f-88b1-396e86db8ed3,Camille Smit,"Via Roma 89, Apt 3A",Vienna,111 22,Spain,Small Business
+CUST-655e9992-b675-4246-9291-918928db9191,Noah García,"High Street 62, Apt 4",Madrid,WC1A,Italy,Enterprise
+CUST-6f6cfa2a-98e6-4c85-8e08-5c2fcd16b563,Lina Kowalski,"Calle Mayor 86, Apt 13C",Amsterdam,75001,Germany,Wholesale
+CUST-6df78fb0-41a7-4d89-a095-847d2642a4bb,Mia Martin,"Rue de la Paix 49, Apt 4",Rome,1011,Belgium,VIP Member
+CUST-40af7d33-32f9-47f3-8cc3-9ec5b20d1fc4,Giulia Rossi,"Calle Mayor 19, Apt 12A",Dublin,111 22,Ireland,Government/Non-Profit
+CUST-ed704256-1094-4d9c-ab9e-9796657e597c,Emma Andersson,"Via Roma 28, Apt 14C",London,111 22,France,Wholesale
+CUST-78337e54-3b4a-4a5f-902c-3a9bc0a56190,Anna Rossi,"Grand Rue 83, Apt 10C",London,D01,Belgium,VIP Member
+CUST-c3f7c517-5d87-413b-bd9c-f4cf4fe56fc3,Freja Schneider,"Hauptstraße 69, Apt 3",Amsterdam,10115,France,Government/Non-Profit
+CUST-f2c8b1d6-2478-485a-a939-0b9885d2e494,Emma Fernández,"Calle Mayor 52, Apt 11A",Stockholm,10115,Belgium,Wholesale
+CUST-b14f5581-ad46-4259-9d4d-14dc3c37adf5,Mia Nagy,"Grand Rue 53, Apt 7",Berlin,111 22,Germany,VIP Member
+CUST-784174f9-a283-41cb-a2c1-0a93e7231263,Elena De Jong,"Calle Mayor 39, Apt 13A",Rome,75002,Sweden,Wholesale
+CUST-83d1a02c-240c-4f94-9621-fe07e809c6d4,Giulia Nagy,"Gran Vía 58, Apt 7B",London,D01,Belgium,Wholesale
+CUST-473c7352-267c-4388-82c7-369bfc04647c,Giulia Hansen,"Gran Vía 5, Apt 3C",Vienna,WC1A,Ireland,Government/Non-Profit
+CUST-15831d9f-96eb-4352-8a52-e272be4b7d20,Lukas Martin,"Prinsengracht 75, Apt 2C",London,111 22,Belgium,Wholesale
+CUST-bda55a77-5f72-44da-9029-e34a01f889a3,Noah Larsen,"Keizersgracht 9, Apt 10B",Madrid,1010,Italy,Wholesale
+CUST-441bac50-3db0-42d0-8e18-7fb89cdfb89c,Finn De Jong,"Keizersgracht 17, Apt 13B",Brussels,28001,Germany,Government/Non-Profit
+CUST-1c12a331-8063-4ab6-b674-f7fa3bfd5a02,Lukas Müller,"Via Roma 46, Apt 13",London,28001,Ireland,Enterprise
+CUST-f7648678-b8e4-4839-bf32-7596f4476c4e,Matteo Moreau,"Gran Vía 9, Apt 2C",Madrid,75001,Netherlands,Retail
+CUST-d48bf181-78a3-4b9d-9d30-4793ea24d72d,Oliver Schneider,"Gran Vía 66, Apt 5A",Amsterdam,1011,Ireland,Corporate
+CUST-43e53a5b-b5b0-4d73-aac4-5bac2e392713,Giulia Ricci,"Hauptstraße 38, Apt 3",Amsterdam,10117,Italy,Small Business
+CUST-5c8c22b4-c76b-48d0-9132-c291ace8fdc6,Alejandro Kowalski,"High Street 86, Apt 4A",Dublin,10117,Sweden,Corporate
+CUST-8628e829-9120-4108-9040-012d5616cf8c,Giulia García,"Via Roma 89, Apt 13",London,28001,Germany,Corporate
+CUST-4d10796f-41b0-4387-90d1-cc7d36100661,Lucas Müller,"Grand Rue 70, Apt 12C",Vienna,1000,Netherlands,VIP Member
+CUST-016ec8c2-99c8-4448-98be-ca31d22dbcf9,Liam Fernández,"Rue de la Paix 61, Apt 12B",London,75001,Italy,Retail
+CUST-32678ad7-474d-4cb2-abc9-bbccf925f24c,Matteo Moreau,"Via Roma 91, Apt 10B",Vienna,10117,Italy,VIP Member
+CUST-2e32404f-62f6-4529-94e7-8685c870dc28,Matteo Moreau,"Rue de la Paix 39, Apt 14C",Paris,28001,United Kingdom,Retail
+CUST-a2528c82-1507-4895-bbc1-b878f1e2b448,Giulia Schneider,"Station Road 92, Apt 14B",Dublin,1011,Germany,Government/Non-Profit
+CUST-d3ac0f88-1a46-453d-ab91-b53103823874,Emma Müller,"Grand Rue 92, Apt 8A",Paris,10117,Ireland,Government/Non-Profit
+CUST-ab725235-8229-4135-9d7c-58c275ec26c2,Elena Jansen,"Calle Mayor 39, Apt 1C",London,75002,France,Retail
+CUST-b5c3308f-1eba-44c4-95d5-4e4fe97f4f68,Lucas Schneider,"Keizersgracht 62, Apt 9C",Dublin,75002,Sweden,Wholesale
+CUST-ed9662a7-2ca9-43eb-9490-c08a8eb9df54,Giulia García,"Keizersgracht 25, Apt 8A",Paris,10115,France,Enterprise
+CUST-8101046c-3a6f-4897-a2db-036434463f11,Oliver García,"Bahnhofstraße 6, Apt 10",Berlin,10115,Ireland,Wholesale
+CUST-8f86ec83-984f-493b-816d-011e6a885d65,Liam De Jong,"Hauptstraße 80, Apt 6A",London,WC1A,Ireland,Enterprise
+CUST-86da949c-b3b9-4d3e-9a24-0425d352f1ee,Lina García,"Prinsengracht 36, Apt 3C",Paris,111 22,Germany,VIP Member
+CUST-d115c6ea-24c5-4c3d-95b4-d11efb2d27d5,Oliver Jansen,"Grand Rue 57, Apt 2C",Berlin,1010,Ireland,Enterprise
+CUST-595fc0e9-42f4-4609-9899-722bc2b3068e,Lina Novák,"Calle Mayor 49, Apt 14C",Berlin,10115,United Kingdom,VIP Member
+CUST-268b1a24-d6b8-4a75-88e0-214b2097aea9,Finn De Jong,"High Street 54, Apt 6C",Amsterdam,10117,Netherlands,Government/Non-Profit
+CUST-0e4acc9f-4a3b-4122-bc7b-99ab2750a3b1,Noah Fernández,"Via Roma 57, Apt 11",London,D01,Ireland,Corporate
+CUST-9e999ef6-335c-4d00-90d4-6cc6aa6f7da3,Lukas Weber,"Gran Vía 96, Apt 8B",Berlin,28001,France,Government/Non-Profit
+CUST-6b60369d-713d-45d7-8930-9bac02cd501f,Matteo Kowalski,"Keizersgracht 24, Apt 12A",Amsterdam,D01,Ireland,Government/Non-Profit
+CUST-ddbf7bae-e09f-4211-b623-9bd1bcc7b375,Clara Rossi,"Corso Vittorio Emanuele 92, Apt 4B",Paris,1011,United Kingdom,Corporate
+CUST-2fa4b61e-0674-4eeb-99cf-090674f217cf,Liam Novák,"Corso Vittorio Emanuele 58, Apt 12B",Madrid,10115,Belgium,Enterprise
+CUST-5ae739b8-af96-4eb1-a13c-aebf7dbe98e6,Lukas De Jong,"Keizersgracht 92, Apt 5A",London,1010,Belgium,Enterprise
+CUST-44929ecf-c923-433b-b140-b75bcae02aa2,Hugo Rossi,"Grand Rue 64, Apt 11B",Dublin,1011,Italy,VIP Member
+CUST-e6478782-efe0-45a7-98d9-3986a907b69b,Lukas Novák,"High Street 73, Apt 1A",Vienna,1000,Sweden,Wholesale
+CUST-b807029c-d06b-4727-a348-5260998c2e94,Alejandro Dubois,"Grand Rue 77, Apt 12",Vienna,1000,Spain,VIP Member
+CUST-04d1beb4-7991-4cdb-b622-ffc1f8bd7217,Anna Larsen,"Rue de la Paix 6, Apt 2C",Paris,D01,Netherlands,Wholesale
+CUST-278bf7ca-92a4-4005-89b5-7b3a47292bbe,Sofia Schneider,"Hauptstraße 47, Apt 9B",Stockholm,111 22,Austria,Government/Non-Profit
+CUST-95ccab1b-fb10-4942-a50e-6f2137aa0a01,Camille Vidal,"Gran Vía 56, Apt 14B",Stockholm,75001,Italy,Corporate
+CUST-c4a6eeb2-049e-4f23-b670-c41e6422c3ed,Hugo Novák,"Prinsengracht 5, Apt 7",Paris,111 22,Sweden,Government/Non-Profit
+CUST-d66e388d-e0dc-4bbc-936f-d1f4ba7deb87,Oliver Müller,"High Street 65, Apt 2",Berlin,10117,Belgium,Retail
+CUST-6c293700-18ef-46f0-b9c9-341e1fc2961b,Clara Larsen,"High Street 11, Apt 5B",London,75002,France,Enterprise
+CUST-715b2d7e-13f9-48b7-8665-1ae059fa0ffe,Finn García,"Calle Mayor 86, Apt 11C",Vienna,WC1A,Austria,Wholesale
+CUST-5280697d-71e5-4e92-804e-033e5c74a88c,Matteo Andersson,"High Street 77, Apt 1B",Vienna,111 22,Sweden,VIP Member
+CUST-e227e28d-bbb1-4d1c-ab7b-4dcc575a9a17,Giulia Moreau,"Calle Mayor 99, Apt 1A",Berlin,WC1A,Sweden,Corporate
+CUST-13b70913-cf74-4e97-bdca-af0d625607be,Liam Müller,"Via Roma 6, Apt 12A",Vienna,WC1A,Italy,Wholesale
+CUST-ed1abfb8-5b2c-4e5d-9dae-c49a86435a04,Alejandro Fernández,"Hauptstraße 95, Apt 5B",Dublin,1010,Austria,VIP Member
+CUST-96d40bea-507a-4cf8-afe8-cf59cff99463,Camille De Jong,"Rue de la Paix 53, Apt 7A",London,10115,Germany,Enterprise
+CUST-4a92443a-3da3-4cc4-b574-4cd9aba866b1,Finn Vidal,"Hauptstraße 37, Apt 10B",Brussels,1010,Spain,Government/Non-Profit
+CUST-df3afc26-cb1e-4791-a2c0-7d070afb6956,Antoine Kowalski,"Rue de la Paix 17, Apt 5B",Vienna,WC1A,Germany,Enterprise
+CUST-b6e1e6d0-d918-43f5-a8ff-d5c4745be47e,Clara Schneider,"Calle Mayor 1, Apt 3A",Paris,1011,Austria,Small Business
+CUST-9f5cd69e-95b2-4984-a049-5abd953f915d,Matteo Dubois,"Grand Rue 62, Apt 1A",Dublin,1000,Germany,Retail
+CUST-387ac0a3-33e7-42ee-9e64-bc5cabb1ac65,Lucas Kowalski,"Corso Vittorio Emanuele 32, Apt 2",Vienna,WC1A,United Kingdom,Small Business
+CUST-25f6b108-5d2f-4d85-805c-2467557d6ebb,Liam Kowalski,"Corso Vittorio Emanuele 39, Apt 10B",Dublin,1010,Belgium,Corporate
+CUST-12d56580-2e45-4bed-ad50-2bf5a3f11b22,Antoine Kowalski,"Station Road 54, Apt 6C",Amsterdam,1011,United Kingdom,Wholesale
+CUST-da42ff02-1d3d-422b-ac84-8ecce6a952af,Emma Dubois,"Prinsengracht 50, Apt 12A",Brussels,1010,Ireland,Corporate
+CUST-69a8c523-ec1d-4d25-8a9e-4b46598199cb,Liam Müller,"Bahnhofstraße 5, Apt 14B",Rome,111 22,Germany,Government/Non-Profit
+CUST-66d6b5e7-eb41-4707-b8db-3151869d74f8,Oliver Weber,"Prinsengracht 57, Apt 1",Paris,28001,Ireland,VIP Member
+CUST-087be9ac-cac5-459a-9c30-d1aaf42dfb15,Emma Schneider,"Via Roma 79, Apt 5A",Paris,D01,France,Enterprise
+CUST-3e8080e0-401f-4123-9c8d-a64ea80263f5,Sofia Rossi,"Station Road 75, Apt 3C",London,75001,Netherlands,Small Business
+CUST-8f3e5e6e-3f4c-4d9d-8b5a-fe4d3d9dbec4,Hugo Kowalski,"Bahnhofstraße 64, Apt 12B",Dublin,75002,France,Small Business
+CUST-74ea4fce-e580-41a7-aac2-818d9ceb79e4,Sofia Jansen,"Bahnhofstraße 50, Apt 2B",Berlin,1010,Austria,Government/Non-Profit
+CUST-df994033-b75d-45e3-9bf5-1728617463fa,Clara Dubois,"Prinsengracht 51, Apt 2",Paris,75001,Sweden,Small Business
+CUST-46af5dcf-3e02-4a33-ab80-4e1decd46eca,Sofia Ricci,"Calle Mayor 38, Apt 1",Dublin,00185,Belgium,Government/Non-Profit
+CUST-b4e5b0d5-ee4c-45d8-a36f-8c137d7e1b61,Elena Hansen,"Keizersgracht 30, Apt 7B",Dublin,1010,Germany,Corporate
+CUST-771c36cd-26e1-4f04-a110-7c0956e402fd,Oliver Moreau,"Rue de la Paix 81, Apt 5A",Madrid,28001,Italy,Enterprise
+CUST-f52a1f42-94a0-4506-a9e9-f1ecb1ddafaf,Sofia Hansen,"Grand Rue 10, Apt 8A",Madrid,75001,Netherlands,Wholesale
+CUST-8772873c-9142-46a2-bd9a-e996e09a0572,Lucas Vidal,"Gran Vía 17, Apt 12",Rome,75002,Spain,VIP Member
+CUST-89510f29-378f-4b4b-91b3-614be79e35ce,Mia Weber,"Corso Vittorio Emanuele 69, Apt 2B",Amsterdam,WC1A,Spain,Wholesale
+CUST-44508570-a4aa-41a6-a987-9a6f4aced686,Lucas Weber,"Hauptstraße 66, Apt 13B",Rome,1010,Spain,Corporate
+CUST-34eab866-b096-4219-8091-c398d868dc48,Clara Novák,"Prinsengracht 43, Apt 11C",Vienna,10115,Germany,VIP Member
+CUST-4285862b-5264-40a3-9b11-c3218858d586,Clara Moreau,"Calle Mayor 23, Apt 7",Berlin,D01,Spain,Small Business
+CUST-17ecd18d-c985-4e38-9bb0-a2fc5b33f332,Oliver Smit,"Prinsengracht 16, Apt 8",Vienna,28001,United Kingdom,Retail
+CUST-0dc49963-b4e8-49d5-9e9d-07380f9f14e4,Matteo Martin,"Corso Vittorio Emanuele 4, Apt 8A",Stockholm,10117,Netherlands,Corporate
+CUST-49e30b2f-0793-4b82-a757-1f2a59ee4fa6,Giulia Müller,"Rue de la Paix 96, Apt 3C",Vienna,10117,United Kingdom,Corporate
+CUST-e8d9a4a8-320e-459e-a842-4cb241990cf5,Hugo Martin,"Station Road 61, Apt 10C",London,75001,Sweden,Enterprise
+CUST-baba7caa-97bb-4cb2-88f0-aac0f8d825fc,Anna García,"Rue de la Paix 21, Apt 5B",Vienna,28001,Netherlands,Wholesale
+CUST-1b2dd197-4a20-4b1b-b91f-5acae5f34f94,Matteo Hansen,"Keizersgracht 42, Apt 13B",Rome,1011,United Kingdom,Corporate
+CUST-0f1133bf-80b3-47b4-ab26-5e6b59f74f8a,Elena Vidal,"Hauptstraße 70, Apt 1A",Paris,75002,Netherlands,Corporate
+CUST-b3fd56f8-c838-468a-9629-33414c7090a5,Antoine Dubois,"Calle Mayor 12, Apt 10B",Paris,D01,Sweden,Small Business
+CUST-7da9b312-dc11-405d-9ec8-dfa0cd972edf,Oliver Hansen,"Station Road 49, Apt 14B",Madrid,WC1A,Ireland,Small Business
+CUST-1dd0c338-7b77-43cc-908d-b6e20e2b6f34,Camille Jansen,"Prinsengracht 73, Apt 10A",Berlin,1010,Germany,VIP Member
+CUST-fdb428f7-9cce-4005-80dc-7d13d95e9976,Liam Moreau,"Calle Mayor 86, Apt 8B",Berlin,1010,Germany,Government/Non-Profit
+CUST-a9cdf90d-28e8-4d0c-96d4-37819cc5c921,Finn García,"Prinsengracht 63, Apt 13A",London,10117,Spain,Government/Non-Profit
+CUST-4aa09a30-3097-4bea-b41c-65f8cb537d80,Alejandro Hansen,"Gran Vía 36, Apt 1",Rome,1010,France,Retail
+CUST-7b207a1c-797a-419c-9e26-71ae5407ffad,Elena García,"High Street 99, Apt 13",Madrid,D01,Spain,Government/Non-Profit
+CUST-68fd6abf-5d8f-4287-be3a-fa3b710b5e4d,Clara Müller,"Corso Vittorio Emanuele 86, Apt 14B",Stockholm,10115,Austria,Enterprise
+CUST-79832843-194d-4dad-be01-2ebbf9b6d44f,Clara Ricci,"Keizersgracht 87, Apt 14",Berlin,00185,United Kingdom,Retail
+CUST-81a07ad9-9ea5-4c28-ab3d-ea36dc2e1152,Antoine Smit,"Station Road 26, Apt 14C",Paris,1000,Netherlands,VIP Member
+CUST-bcd92b44-d62b-46aa-8cd0-2c2ee7915164,Mia Andersson,"Corso Vittorio Emanuele 7, Apt 3C",Vienna,111 22,France,Small Business
+CUST-6def7f02-8db1-47ec-a0f1-ec4d0fdcc6a6,Giulia Vidal,"Via Roma 18, Apt 10B",Vienna,75001,Sweden,Government/Non-Profit
+CUST-fd9cf896-01c4-4133-8d18-c8776b9b12f5,Lucas Hansen,"Rue de la Paix 15, Apt 9C",Madrid,10115,Austria,Wholesale
+CUST-6da6058e-4dd7-4295-9410-4c97deb842e9,Lucas Martin,"Hauptstraße 28, Apt 10C",Rome,WC1A,Sweden,Small Business
+CUST-fdb82e26-21bc-4f0e-94bc-405d7ac3d2ff,Lina Martin,"Calle Mayor 17, Apt 7B",Rome,10117,Germany,Enterprise
+CUST-2fb0472e-36a8-43ab-b775-4fbbf6129f94,Emma García,"Gran Vía 44, Apt 9A",Amsterdam,75001,Germany,Small Business
+CUST-15a7b2d4-4f99-4908-9a4f-fee7d7b686af,Elena Moreau,"Grand Rue 25, Apt 4B",Brussels,1010,Spain,Enterprise
+CUST-772e298a-a837-40e6-b153-bc024c8eeee4,Mia Müller,"Rue de la Paix 18, Apt 4C",Berlin,28001,United Kingdom,Enterprise
+CUST-caa00197-d1c5-468c-a656-0a9f4b19214a,Mia Müller,"Bahnhofstraße 34, Apt 8",Rome,WC1A,France,Enterprise
+CUST-c7acf430-20c3-4ba4-a019-3afdb079fed5,Lina Hansen,"High Street 83, Apt 10A",Paris,75001,Belgium,VIP Member
+CUST-74db5cc3-ea18-477b-a5f3-dc23c07e1b2a,Clara Smit,"Hauptstraße 6, Apt 4B",Madrid,75002,Austria,Enterprise
+CUST-6ec46708-ad17-493c-9512-ad1515121f08,Matteo García,"Station Road 59, Apt 8C",Stockholm,1010,Austria,Enterprise
+CUST-5b42ff98-1b2d-487a-8dd0-c3998c92a9ad,Antoine Müller,"Bahnhofstraße 33, Apt 5B",Amsterdam,75001,Spain,Wholesale
+CUST-04c7f227-e2a9-445c-9f8e-44de0757a481,Elena Schneider,"Hauptstraße 70, Apt 6C",Dublin,28001,Germany,Retail
+CUST-07a4c495-269a-4d79-872d-fcecebe60095,Alejandro Nagy,"Grand Rue 94, Apt 11B",London,75002,Spain,Corporate
+CUST-a5e94f46-44da-4da8-a304-6f753a76f6b6,Sofia Andersson,"Corso Vittorio Emanuele 55, Apt 9C",Stockholm,1010,Netherlands,Retail
+CUST-4665d28f-3950-47c6-8315-d7d208754021,Lukas Weber,"Rue de la Paix 31, Apt 8A",Dublin,00185,France,Enterprise
+CUST-32c5671b-9306-42b4-9517-69331a5d346d,Giulia Dubois,"Grand Rue 24, Apt 6B",Vienna,10115,United Kingdom,Wholesale
+CUST-bcc4da93-f446-4277-a430-dbf40b1e1ef5,Oliver De Jong,"Grand Rue 92, Apt 11",London,1011,Ireland,Small Business
+CUST-30852f6f-577f-4462-a34b-7fd2cb769e28,Oliver Jansen,"Bahnhofstraße 94, Apt 8B",Berlin,10117,Italy,Wholesale
+CUST-36991a36-2d61-4de8-9559-af2905611cd1,Elena Weber,"Rue de la Paix 62, Apt 9B",Paris,111 22,Italy,Enterprise
+CUST-0c1e57bc-1e53-435e-907a-89b1d3891d85,Mia García,"Prinsengracht 8, Apt 10C",London,D01,Spain,Wholesale
+CUST-8f1999d9-fd2a-4188-977c-d6cfde48b12a,Antoine Kowalski,"Keizersgracht 5, Apt 6B",Brussels,10117,Netherlands,Government/Non-Profit
+CUST-f824216f-4499-4dd8-bee3-9fba5b279618,Camille Nagy,"Bahnhofstraße 68, Apt 3",Dublin,111 22,France,Wholesale
+CUST-2beaeac9-82b4-483a-847f-863073beef41,Sofia García,"High Street 20, Apt 1",Berlin,WC1A,Belgium,Enterprise
+CUST-15039afd-e253-4b6f-8626-0d1a7b008571,Finn Jansen,"High Street 90, Apt 14",Brussels,111 22,Italy,VIP Member
+CUST-dd863142-b0bb-466d-bcb7-b726d7d2d0d1,Antoine Nagy,"Bahnhofstraße 37, Apt 14C",Vienna,1010,France,Government/Non-Profit
+CUST-08ebef00-49d5-4f43-ac24-9a1ed09924af,Lucas Müller,"Grand Rue 77, Apt 11C",Brussels,00185,United Kingdom,Wholesale
+CUST-b44aa1f9-ec75-48cc-9d09-a8b03e2869fe,Clara Müller,"High Street 6, Apt 2",Amsterdam,1011,Sweden,Corporate
+CUST-85e4e1d3-99c9-47d2-81b6-5e0fd8d7c795,Lucas Martin,"Gran Vía 5, Apt 7B",Amsterdam,10115,Netherlands,Corporate
+CUST-78beff06-655f-49aa-b57c-a58649f2447c,Anna García,"Keizersgracht 2, Apt 13",Madrid,10115,Germany,Wholesale
+CUST-5d3e62d3-c201-416a-b76f-21ba639e82cc,Giulia Nagy,"Station Road 84, Apt 1C",Stockholm,28001,France,VIP Member
+CUST-85952cde-f241-469c-af8f-c2308dd362ec,Freja De Jong,"Hauptstraße 73, Apt 1A",Stockholm,D01,United Kingdom,Small Business
+CUST-ffe08207-15f3-4d12-966c-963f36ad1227,Emma Fernández,"Prinsengracht 15, Apt 8B",Berlin,75001,Belgium,Enterprise
+CUST-cb8a37ee-0994-4180-84bb-e199be2c4792,Emma Kowalski,"Via Roma 35, Apt 14C",Vienna,00185,Ireland,Corporate
+CUST-01655386-0c1b-4ac8-afe1-3d4a79daa528,Giulia Müller,"High Street 69, Apt 14",Rome,75001,Germany,Small Business
+CUST-d641dbb3-17fe-4fe8-88cc-448c6cbd15fc,Finn Ricci,"Keizersgracht 50, Apt 14A",Amsterdam,1011,Ireland,Wholesale
+CUST-7c043a15-73b4-4d97-8f5b-090c6203edb9,Elena Novák,"Corso Vittorio Emanuele 75, Apt 9B",Berlin,111 22,Belgium,Small Business
+CUST-556df6ed-c10b-45b3-84f2-6c11ecaa2b44,Anna García,"Keizersgracht 99, Apt 3A",Rome,10115,United Kingdom,Government/Non-Profit
+CUST-732c6ce3-9e3f-42d4-8590-346407ac5c4f,Freja Larsen,"Corso Vittorio Emanuele 64, Apt 6",Stockholm,1011,Italy,Retail
+CUST-c98ec440-0f32-43ad-93e9-a9801f7fcefc,Matteo Rossi,"Corso Vittorio Emanuele 11, Apt 9A",Madrid,111 22,Ireland,Corporate
+CUST-19f698ab-8acf-4648-9527-87e540901f2a,Lukas Vidal,"Keizersgracht 30, Apt 3A",Brussels,10115,Germany,Wholesale
+CUST-ee6388a2-fc39-48c9-85f7-df68e6d046af,Oliver Smit,"Hauptstraße 5, Apt 3C",Amsterdam,111 22,Spain,Enterprise
+CUST-d441b96b-6bf9-4de5-b442-0474915e8ac5,Lina Hansen,"Gran Vía 62, Apt 4A",Berlin,D01,Austria,VIP Member
+CUST-067316bd-d42b-4a6a-a692-5358bf4297dd,Lina Schneider,"Gran Vía 89, Apt 2",London,00185,France,Government/Non-Profit
+CUST-c9ceed30-814d-4ef5-a9ed-7b5a5d5144d0,Alejandro De Jong,"Corso Vittorio Emanuele 39, Apt 8B",Rome,10117,Italy,Wholesale
+CUST-c5537bfe-f296-4d1c-ac12-269bb25d25b4,Emma Dubois,"Rue de la Paix 38, Apt 1C",Brussels,75002,Ireland,Enterprise
+CUST-844a3e44-1618-486f-b44a-cda6e921c5ac,Alejandro Kowalski,"High Street 25, Apt 1A",Amsterdam,WC1A,Sweden,VIP Member
+CUST-56093e99-9841-432a-8c38-7afb8abe7b1a,Clara Fernández,"Via Roma 66, Apt 14A",Stockholm,1011,France,VIP Member
+CUST-009ff040-d27e-4b7b-9cb3-9d6a23fac679,Sofia De Jong,"Corso Vittorio Emanuele 51, Apt 7C",Vienna,1011,Spain,Wholesale
+CUST-a4289b67-391a-44c9-96f2-a55d4588e16b,Hugo Jansen,"Bahnhofstraße 6, Apt 3C",Rome,75002,Belgium,Government/Non-Profit
+CUST-67721f00-66d7-4fea-9701-bb55cad27454,Oliver Smit,"Rue de la Paix 72, Apt 10",Stockholm,10117,Austria,Small Business
+CUST-62911fb1-8ff1-4bcc-961f-1ce6f9def6c6,Camille Schneider,"Grand Rue 15, Apt 13A",Amsterdam,1000,United Kingdom,Small Business
+CUST-de30a851-4634-48b0-8789-258191a4d145,Liam Novák,"Grand Rue 94, Apt 7C",Rome,1010,Spain,VIP Member
+CUST-dba92cf9-cd68-4901-8542-0cc25ddef9a3,Mia Andersson,"Grand Rue 29, Apt 6A",Brussels,D01,Spain,Small Business
+CUST-d92f518f-b4fc-455b-a0da-215c22e9ab03,Lukas Vidal,"High Street 27, Apt 7A",Amsterdam,D01,Belgium,Retail
+CUST-4c1a71bc-d3d6-4c1a-8193-7333e8f4a364,Noah García,"Grand Rue 86, Apt 2B",Dublin,75002,Netherlands,VIP Member
+CUST-edbff89a-f66d-4336-b5a6-bd43a287f180,Giulia Vidal,"Hauptstraße 74, Apt 1B",Berlin,75001,Belgium,VIP Member
+CUST-5e807d1e-e94b-4b6d-b28f-2ad01fd9cc2c,Elena Larsen,"Bahnhofstraße 13, Apt 4A",Brussels,111 22,Netherlands,Enterprise
+CUST-7b03a941-55bc-4359-bb93-6c4c38871cbb,Freja Fernández,"Corso Vittorio Emanuele 52, Apt 8C",Rome,1010,Netherlands,Small Business
+CUST-bd7f7801-6209-41e8-bd56-46d4c8a38003,Alejandro Kowalski,"Corso Vittorio Emanuele 5, Apt 13C",Vienna,00185,Italy,Government/Non-Profit
+CUST-2d885662-8a97-47ed-8bfa-095fa6217090,Alejandro Jansen,"Grand Rue 76, Apt 13B",Stockholm,00185,Italy,VIP Member
+CUST-2bef72e7-505b-4dd0-add8-a09c37bfb2ba,Finn Schneider,"Prinsengracht 95, Apt 3C",London,75002,Germany,Government/Non-Profit
+CUST-32b58449-8c05-4278-a885-0e83cc15e246,Oliver Müller,"Grand Rue 36, Apt 10C",Stockholm,D01,Ireland,Retail
+CUST-5e36d5f7-b785-4d8c-a0fa-d52a04037eac,Noah Dubois,"Prinsengracht 69, Apt 4C",Rome,00185,Ireland,Enterprise
+CUST-dc22b158-e36d-4141-bc28-90fe6d2daac7,Elena Smit,"Gran Vía 38, Apt 6",Stockholm,1000,United Kingdom,Wholesale
+CUST-5db996f6-8cae-405a-b9e5-5770eef97b1c,Lukas Müller,"Via Roma 47, Apt 10B",Berlin,1011,Ireland,Government/Non-Profit
+CUST-fbe5ac25-9ad1-48cb-a082-919f5b22c749,Elena Novák,"Prinsengracht 12, Apt 10A",Amsterdam,28001,Italy,VIP Member
+CUST-a24b7206-0c2d-45dd-bef1-49d8e4b614f3,Liam García,"Corso Vittorio Emanuele 62, Apt 2A",London,WC1A,Germany,Retail
+CUST-b6ee109a-c632-48ce-879c-a51864c9a037,Camille Hansen,"High Street 60, Apt 11",Paris,75002,Germany,Corporate
+CUST-7e8ec301-b5ad-41c0-9476-2af430f33fdd,Alejandro Jansen,"Keizersgracht 68, Apt 5",Rome,75001,Netherlands,Retail
+CUST-862430c7-1355-4390-a442-85e748981a12,Lina Jansen,"Hauptstraße 72, Apt 10A",Madrid,111 22,Belgium,Retail
+CUST-f9d4385f-b21d-4dca-b432-a2a8add65dbc,Noah Kowalski,"Keizersgracht 31, Apt 10A",Paris,WC1A,United Kingdom,Enterprise
+CUST-8c4bf145-28aa-4df1-ba55-867d094a6012,Lina Vidal,"Bahnhofstraße 51, Apt 13B",Stockholm,111 22,Netherlands,Wholesale
+CUST-88364007-2995-49ef-aa03-0d2d0e226c84,Liam Schneider,"Corso Vittorio Emanuele 41, Apt 6C",Rome,10115,Belgium,Corporate
+CUST-e3abc271-5a00-4d3a-bed1-2be4002dfeee,Elena Hansen,"Via Roma 1, Apt 14A",Dublin,WC1A,Ireland,Small Business
+CUST-1a4bbba9-81f5-4120-a91a-20c59a1a4e8f,Matteo Rossi,"Hauptstraße 90, Apt 14",Madrid,28001,Netherlands,Small Business
+CUST-ab5c39a2-ef05-4606-9c4f-fd4610a69963,Oliver Jansen,"Bahnhofstraße 87, Apt 9A",London,D01,France,Government/Non-Profit
+CUST-2c089b2e-9344-4b12-9f30-d25072cb2e6c,Anna Jansen,"Bahnhofstraße 55, Apt 3",Vienna,1000,Ireland,Retail
+CUST-5a330df0-a93d-421c-a98e-e06b626a0d0a,Mia Dubois,"Hauptstraße 47, Apt 9A",Dublin,1011,Belgium,Enterprise

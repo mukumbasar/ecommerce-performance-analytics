@@ -9,9 +9,10 @@ from config import (
     POSTCODES,
     SEGMENTS,
     STREETS,
+    NUM_CUSTOMERS,
 )
 
-def generate_customers(num_customers: int = 200) -> pd.DataFrame:
+def generate_customers(num_customers: int = NUM_CUSTOMERS) -> pd.DataFrame:
     """Generates synthetic customer records with UUID keys and random profiles.
 
     Args:

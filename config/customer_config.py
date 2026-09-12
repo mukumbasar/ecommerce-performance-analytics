@@ -109,3 +109,5 @@ SEGMENTS = [
     "VIP Member",
     "Government/Non-Profit",
 ]
+
+NUM_CUSTOMERS = 200

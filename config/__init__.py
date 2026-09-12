@@ -6,6 +6,7 @@ from config.customer_config import (
     POSTCODES,
     SEGMENTS,
     STREETS,
+    NUM_CUSTOMERS,
 )
 from config.order_config import (
     END_DATE,

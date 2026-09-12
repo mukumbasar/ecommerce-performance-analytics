@@ -6,7 +6,7 @@ from services import (
     generate_customers,
     generate_orders,
     generate_products,
-    generate_returns,  # <-- Added
+    generate_returns,
 )
 
 np.random.seed(42)

@@ -1,13 +1,13 @@
 product_id,product_name,category,unit_price,unit_cost
-PROD-60ac6d8d-ef30-40c5-8f8d-f3ca8c9dffe2,4K Ultra HD Smart TV (55-inch),Electronics,499.99,280.0
-PROD-1afa046d-24ff-4b17-b803-69f4dec539d3,Wireless Noise-Canceling Headphones,Electronics,199.99,95.0
-PROD-1e92ca55-1567-4352-92b6-a37100791cf4,Mechanical Gaming Keyboard,Electronics,89.99,38.0
-PROD-421f4503-e13f-4113-95e2-e08fc2bf22f0,Ergonomic Wireless Mouse,Electronics,49.99,18.0
-PROD-04ef7c87-4e76-4e7c-b62b-1309f7c82eaa,USB-C Multi-Port Adapter,Electronics,29.99,9.5
-PROD-5ed9b751-13bc-4a05-aa4c-0acfb9479349,Cotton Crewneck T-Shirt,Apparel,24.99,6.0
-PROD-8fd06b48-609f-4d40-b98b-4dbf7436cbd9,Slim-Fit Denim Jeans,Apparel,64.99,21.0
-PROD-c922d84a-9bbf-418c-b853-d7ebb8bc2688,Fleece Zip-Up Hoodie,Apparel,54.99,18.0
-PROD-b57fb7e2-5c13-408d-b259-38b03401c91b,Water-Resistant Windbreaker,Apparel,89.99,32.0
-PROD-104ed9e3-fa3c-4ade-94be-b35842e4c413,Stainless Steel Pour-Over Kettle,Home & Kitchen,44.99,15.0
-PROD-74e21bfb-b3b1-4c8c-b40f-b2ac74bba54d,Cast Iron Skillet (10-inch),Home & Kitchen,39.99,14.0
-PROD-ce0e0df6-a0bc-486a-88c9-7de8c19fdf86,Air Fryer Oven,Home & Kitchen,119.99,52.0
+PROD-aab0afe9-5df6-4b48-ae99-f322e3820802,4K Ultra HD Smart TV (55-inch),Electronics,499.99,280.0
+PROD-a85036c2-6bc2-4de1-9d61-afa53c07995a,Wireless Noise-Canceling Headphones,Electronics,199.99,95.0
+PROD-64314286-d564-4c55-9694-ee4b8b4d89c8,Mechanical Gaming Keyboard,Electronics,89.99,38.0
+PROD-51e479b3-f91a-4677-814a-cb82b2c3c107,Ergonomic Wireless Mouse,Electronics,49.99,18.0
+PROD-d70f9c69-d4aa-42b4-ace5-01904a73071a,USB-C Multi-Port Adapter,Electronics,29.99,9.5
+PROD-577a23c6-5b4d-4041-813a-3a8b596ceb04,Cotton Crewneck T-Shirt,Apparel,24.99,6.0
+PROD-35dc3662-e193-4ac2-a527-af21c2f79d56,Slim-Fit Denim Jeans,Apparel,64.99,21.0
+PROD-043183ed-f499-422b-ac48-bf3d52113c94,Fleece Zip-Up Hoodie,Apparel,54.99,18.0
+PROD-2778f30b-81d5-4495-82c5-3eec31a4cb04,Water-Resistant Windbreaker,Apparel,89.99,32.0
+PROD-e6c46fd7-4654-4fc5-9bae-d335fdd7223f,Stainless Steel Pour-Over Kettle,Home & Kitchen,44.99,15.0
+PROD-64e93a84-4dbb-4661-9ec3-043dd1693d6e,Cast Iron Skillet (10-inch),Home & Kitchen,39.99,14.0
+PROD-391c0c33-fe4c-43ec-a362-1a200b406e9f,Air Fryer Oven,Home & Kitchen,119.99,52.0
